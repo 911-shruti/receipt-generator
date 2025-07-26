@@ -39,6 +39,8 @@ This project takes item details as input and prints a formatted receipt that inc
 ---
 
 ## 📸 Sample Output
+<img width="607" height="741" alt="image" src="https://github.com/user-attachments/assets/fba46bc7-5c8f-4963-8020-b778e0837118" />
+
 
 
 ---
