@@ -32,7 +32,7 @@ This project takes item details as input and prints a formatted receipt that inc
 
 ## 🚀 Upcoming Features
 
-- Save receipt to `.txt` or `.json`
+- Save receipt to `.json` ✅
 - Enable item returns or exchanges
 - GUI version using Tkinter or web version using Flask
 
